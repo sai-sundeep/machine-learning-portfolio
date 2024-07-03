@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ml_portfolio"
+  title: "Machine Learning Portfolio"
   navbar:
     right:
       - about.qmd
